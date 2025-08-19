@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "C:\\Users\\surbh\\weather",
+        "run",
+        "weather.py"
+      ]
+    }
+  }
+}
